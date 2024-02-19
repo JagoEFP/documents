@@ -12,7 +12,7 @@ There is an intermediary step the Nuxt team offers developers who would like to 
 
 ## Differences
 
-![[./nuxt_differences.png]]
+![Nuxt differences](./nuxt_differences.png)
 
 ### Code differences
 
